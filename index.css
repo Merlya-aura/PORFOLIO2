@@ -9,12 +9,16 @@ body{
     box-sizing:border-box;
 
 }
+.oo{
+    
+}   
+
 ul{
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     gap: 20px;
     list-style-type: none;
-     
+    background: #020617;
 }
 li:hover{
     transform: scale(1.2);
@@ -69,7 +73,7 @@ header{
 
     ),
 
-    url("photo/télécharger\ \(1\).jpg");
+    url("photo/study.jpg");
 
     background-size:cover;
 
@@ -142,6 +146,7 @@ h1{
     background:#0ea5e9;
 
 }
+
 
 /* SECTIONS */
 
